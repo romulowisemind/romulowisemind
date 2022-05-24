@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @romulowisemind
 - 👀 I’m interested in crescer como um profissional na área de Front-End;
-- 🌱 I’m currently learning  Flutter e linguagem Dart, além da graduação em Matematica;
+- 🌱 I’m currently learning React.js/Front-end, além da graduação em Matematica;
 - 💞️ I’m looking to collaborate on crescimento tanto meu quanto empresarial;
 - 📫 How to reach me instagram: romulo_costa_segato, email: romulocs38@gmail.com;
 
